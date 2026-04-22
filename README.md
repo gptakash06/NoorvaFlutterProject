@@ -1,16 +1,57 @@
-# noorva_flutter_project
+# Noorva Flutter Project
 
-A new Flutter project.
+A Flutter implementation of Noorva UI task based on provided Figma design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Responsive UI
+- GetX State Management
+- Reusable Widgets
+- Hero Animation
+- Suggestion Slider
+- Bottom Chat Input UI
+- Google Sans Font Integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Folder Structure
+
+lib/
+│── core/
+│── common_widgets/
+│── features/
+│── routes/
+
+---
+
+## 📱 Screenshots
+
+### Home Screen
+![Home Screen](assets/screenshots/home.png)
+
+### Guide Screen
+![Guide Screen](assets/screenshots/guide.png)
+
+---
+
+## 📦 APK Download
+
+APK Link:
+
+https://your-apk-link-here.com
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/your-username/noorva_flutter_project
+
+---
+
+## 🚀 Run Project
+
+```bash
+flutter pub get
+flutter run
