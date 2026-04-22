@@ -40,13 +40,13 @@ lib/
 
 APK Link:
 
-https://your-apk-link-here.com
+https://drive.google.com/file/d/1HSozYBq62coRUeEzl_1tKGex6MYI42uN/view?usp=sharing
 
 ---
 
 ## 🔗 GitHub Repository
 
-https://github.com/your-username/noorva_flutter_project
+https://github.com/gptakash06/NoorvaFlutterProject.git
 
 ---
 
